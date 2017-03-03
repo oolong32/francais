@@ -6,19 +6,19 @@ Mon petit vocabulaire.
 
 ## Plantes
 
-un charme *Hagenbuche*
+un charme – *Hagenbuche*
 
-un chêne *Eiche*
+un chêne – *Eiche*
 
 un frêne – *Esche*
 
-un marronnier *Rosskastanie*
+un marronnier – *Rosskastanie*
 
 ### Partie de Plantes
 
-un bourgeon *Baumknospe* (bourgeonner)
+un bourgeon – *Baumknospe* (bourgeonner)
 
-un bouton *Blumenknospe* (boutonner)
+un bouton – *Blumenknospe* (boutonner)
 
 une tige – *Stiel*
 
