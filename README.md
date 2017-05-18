@@ -34,8 +34,12 @@ une clé à ècrous – *Schraubenschlüssel*
 
 un chalutier – *(grosses) Fischerboot, Trawler*
 
+un pétrolier – *Öltanker*
+
+Cargo – *Frachtschiff*
+
 une épave – *Wrack*
 
 ### Trains
 
-butoir – Prellbock
+butoir – *Prellbock*
