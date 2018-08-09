@@ -4,6 +4,18 @@ Mon petit vocabulaire.
 
 ## Animaux
 
+une pieuvre – *Krake*
+
+- le bras – *Tentakel*
+- la ventouse – *Saugnapf*
+- le cloporte – *Kellerassel*
+
+un cloporte – *Kellerassel*
+
+un taon – *Bremse*
+
+butiner – *Nektar sammeln*
+
 ## Plantes
 
 un charme – *Hagenbuche*
@@ -16,7 +28,7 @@ un marronnier – *Rosskastanie*
 
 un saule – *Weide*
 
-la moissure – *Schimmel*
+une moissure – *Schimmel*
 
 ### Partie de Plantes
 
@@ -34,7 +46,7 @@ une clé à ècrous – *Schraubenschlüssel*
 
 une lime – *Feile*
 
-papier de verre, papier émeri – *Sandpapier*
+papier de verre – *Sandpapier*
 
 un mètre pliant – *Zollstock*, *Meter*
 
@@ -42,7 +54,15 @@ une équerre – *Anschlagwinkel*
 
 un atelier – *Werkstatt*
 
-pied à coulisse – Schieblehre
+pied à coulisse – *Schieblehre*
+
+un plioir – *Falzbein*
+
+une règle – *Lineal*
+
+un mètre pliant – *Meterstab*
+
+un palan – *Flaschenzug*
 
 ## Vehicules
 
@@ -51,3 +71,18 @@ pied à coulisse – Schieblehre
 un chalutier – *(grosses) Fischerboot, Trawler*
 
 une épave – *Wrack*
+
+
+## Ordinateur
+
+programmer – *programmieren*
+
+programmation – *Programmierung*
+
+fichier – *Datei*
+
+dossier – *Ordner*
+
+## Musique
+
+caisse de résonance - *Resonanzkörper/-kasten*
