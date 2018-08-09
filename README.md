@@ -70,8 +70,13 @@ un palan – *Flaschenzug*
 
 un chalutier – *(grosses) Fischerboot, Trawler*
 
+un pétrolier – *Öltanker*
+
+Cargo – *Frachtschiff*
+
 une épave – *Wrack*
 
+<<<<<<< HEAD
 
 ## Ordinateur
 
@@ -86,3 +91,8 @@ dossier – *Ordner*
 ## Musique
 
 caisse de résonance - *Resonanzkörper/-kasten*
+=======
+### Trains
+
+butoir – *Prellbock*
+>>>>>>> b46bfa5409c8b5f4e26b3ebeaaa0a7df570f1b07
