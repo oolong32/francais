@@ -76,8 +76,6 @@ Cargo – *Frachtschiff*
 
 une épave – *Wrack*
 
-<<<<<<< HEAD
-
 ## Ordinateur
 
 programmer – *programmieren*
@@ -91,8 +89,14 @@ dossier – *Ordner*
 ## Musique
 
 caisse de résonance - *Resonanzkörper/-kasten*
-=======
+
 ### Trains
 
 butoir – *Prellbock*
->>>>>>> b46bfa5409c8b5f4e26b3ebeaaa0a7df570f1b07
+
+## Schach
+
+Clouage – *Fesselung (En. Pin)*
+Enfilade – * Spiess (En. Skewer)*
+Attaque à la découverte – *Abzug (En. Discovered Attack)*
+Fourchette – *Gabel (En. Fork)*
